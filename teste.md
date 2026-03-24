@@ -1,0 +1,1 @@
+\\ Esse é o arquivo .md exigido no trabalho. O readme é apenas para fazer commit's;
