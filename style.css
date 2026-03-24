@@ -1,4 +1,4 @@
-p { color: black;
+p { color: wheat;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
@@ -6,7 +6,7 @@ p { color: black;
 
 
 body {
-    background-color: wheat;
+    background-color: rgb(6, 6, 32);
 }
 img {
     width: 250px;  
@@ -18,19 +18,24 @@ img {
 
 h1, h2 {
     text-align: center;
+    color:rgb(224, 230, 250)
    
 }
 ul{
     list-style-position: inside;
+    color:antiquewhite;
     text-align: center;
     font-weight: 200;
 }
-.botao {
-  background-color: wheat;
+button {
+  background-color: gray;
   color: cadetblue;
   padding: 12px 20px;
   border-radius: 8px;
-  text-decoration: none;
   display: inline-block;
-  transition: 0.3s;
+  transition: 0.35s;
+}
+button:hover {
+  background-color: rgb(7, 63, 65);
+  color: rgb(0, 24, 104);
 }
